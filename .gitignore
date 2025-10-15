@@ -1,0 +1,8 @@
+# CLion specific files
+.idea/
+cmake-build-*/
+
+# Executables and object files
+*.exe
+*.out
+*.o
